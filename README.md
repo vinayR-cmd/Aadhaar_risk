@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="![Seva_Shield_poster](https://github.com/user-attachments/assets/facd8063-42e5-4344-abda-52e63b0f5f7d)
+  <img src="(https://github.com/user-attachments/assets/facd8063-42e5-4344-abda-52e63b0f5f7d)
 " alt="SevaShield Banner" width="100%"/>
 </p>
 
